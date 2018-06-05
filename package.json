@@ -1,0 +1,8 @@
+{
+  "name": "json-editor",
+  "version": "1.0.0",
+  "description": "Редактор json",
+  "main": "index.js",
+  "author": "Andru Ekhin",
+  "license": "MIT"
+}
